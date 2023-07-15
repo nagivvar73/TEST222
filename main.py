@@ -16,6 +16,6 @@ if __name__ == '__main__':
     print_hi('ddddddd')
     print_hi('PyCharm123')
     print_hi('ddddddd')
-    print_hi('ddddddd')
+    print_hi('DDDDDDDD')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
