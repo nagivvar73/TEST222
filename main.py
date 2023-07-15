@@ -12,10 +12,17 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm123')
-    print_hi('ddddddd')
-    print_hi('ddddddd')
+    print_hi('QQQQQQQQQQQQ')
+    print_hi('RRRRRRRR')
     print_hi('PyCharm123')
-    print_hi('ddddddd')
-    print_hi('DDDDDDDD')
+    print_hi('HHHHHHHH')
+    print_hi('EEEEEEEEEEE')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+def print_hellow(name):
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+
+
+
