@@ -16,7 +16,7 @@ if __name__ == '__main__':
     print_hi('RRRRRRRRSSSSSTTTTTTTTTTTTTTTTTTTTTTTTTT')
     print_hi('PyCharm123444444TTTTTTTTTTTTTTTTT')
     print_hi('HHHHHHHHLLLLLLTTTTTTTTTTTTTTTTTTTTTTTTTT')
-    print_hi('EEEEEEEEEEEFFFFFFTTTTTTTTTTTTTTTTTTTTTTTTTT')
+    print_hi('EEEEEEEEE')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
